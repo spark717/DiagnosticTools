@@ -1,0 +1,8 @@
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\bin\Release\TestDiagnosticTools.exe.config
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\bin\Release\TestDiagnosticTools.exe
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\bin\Release\TestDiagnosticTools.pdb
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\bin\Release\DiagnosticTools.dll
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\bin\Release\DiagnosticTools.pdb
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\obj\Release\TestDiagnosticTools.csprojResolveAssemblyReference.cache
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\obj\Release\TestDiagnosticTools.exe
+E:\progs\DiagnosticTools\DiagnosticTools\TestDiagnosticTools\obj\Release\TestDiagnosticTools.pdb

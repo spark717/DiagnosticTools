@@ -1,0 +1,4 @@
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\bin\Release\DiagnosticTools.dll
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\bin\Release\DiagnosticTools.pdb
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\obj\Release\DiagnosticTools.dll
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\obj\Release\DiagnosticTools.pdb

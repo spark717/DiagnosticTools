@@ -1,0 +1,5 @@
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\bin\Debug\DiagnosticTools.dll
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\bin\Debug\DiagnosticTools.pdb
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\obj\Debug\DiagnosticTools.csprojResolveAssemblyReference.cache
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\obj\Debug\DiagnosticTools.dll
+E:\progs\DiagnosticTools\DiagnosticTools\DiagnosticTools\obj\Debug\DiagnosticTools.pdb
